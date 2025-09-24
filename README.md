@@ -29,7 +29,7 @@ Homepage
 ![Homepage](homepage.png)
 
 Sign In Page  
-![Sign In](sing in.png)
+![Sign In](singin.png)
 
 ---
 
