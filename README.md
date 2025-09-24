@@ -32,7 +32,14 @@ Sign In Page
 ![Sign In](singin.png)
 
 ---
+## ⚙️ Installation
 
+Clone the repo:
+```bash
+git clone https://github.com/arthampc12/webApps-ReTrash.git
+cd webApps-ReTrash
+```
+---
 ## 🔧 Environment Variables (.env setup)
 
 Create an .env file from the .env example template:
@@ -48,12 +55,4 @@ MONGODB_URL=your_mongodb_url_here
 NEXT_PUBLIC_SERVER_URL=http://localhost:3000
 STRIPE_SECRET_KEY=your_stripe_secret_here
 RESEND_API_KEY=your_resend_api_key_here
-```
----
-## ⚙️ Installation
-
-Clone the repo:
-```bash
-git clone https://github.com/arthampc12/webApps-ReTrash.git
-cd webApps-ReTrash
 ```
