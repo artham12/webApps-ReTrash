@@ -61,7 +61,7 @@ STRIPE_SECRET_KEY=your_stripe_secret_here
 RESEND_API_KEY=your_resend_api_key_here
 ```
 ----
-##🚀 Run Project :
+🚀 Run Project :
 ``` bash
 npm run dev
 ```
