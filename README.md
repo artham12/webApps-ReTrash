@@ -39,8 +39,12 @@ Clone the repo:
 git clone https://github.com/arthampc12/webApps-ReTrash.git
 cd webApps-ReTrash
 ```
+Install dependencies:
+```bash
+npm install
+```
 ---
-## 🔧 Environment Variables (.env setup)
+## 🔧 Environment Variables (.env setup) 
 
 Create an .env file from the .env example template:
 ```bash
@@ -55,4 +59,9 @@ MONGODB_URL=your_mongodb_url_here
 NEXT_PUBLIC_SERVER_URL=http://localhost:3000
 STRIPE_SECRET_KEY=your_stripe_secret_here
 RESEND_API_KEY=your_resend_api_key_here
+```
+----
+##🚀 Run Project :
+``` bash
+npm run dev
 ```
