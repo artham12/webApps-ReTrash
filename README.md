@@ -32,7 +32,13 @@ Sign In Page
 ![Sign In](singin.png)
 
 ---
-
+.ENV key
+PAYLOAD_SECRET=your_payload_secret_here
+MONGODB_URL=your_mongodb_url_here
+NEXT_PUBLIC_SERVER_URL=http://localhost:3000
+STRIPE_SECRET_KEY=your_stripe_secret_here
+RESEND_API_KEY=your_resend_api_key_here
+---
 ## ⚙️ Installation
 
 Clone the repo:
