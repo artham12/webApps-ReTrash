@@ -33,9 +33,14 @@ Sign In Page
 
 ---
 
-## ENV key
+## 🔧 Environment Variables (.env setup)
 
-secret key :
+Create an .env file from the .env example template:
+```bash
+cp .env.example .env
+```
+
+Edit the .env file and fill in the respective secrets:
 ```bash
 
 PAYLOAD_SECRET=your_payload_secret_here
