@@ -26,10 +26,10 @@ This project demonstrates **authentication**, **dynamic navbar with session stat
 
 ## 📸 Screenshots
 Homepage  
-![Homepage](./public/preview/homepage.png)
+![Homepage](homepage.png)
 
 Sign In Page  
-![Sign In](./public/preview/signin.png)
+![Sign In](signin.png)
 
 ---
 
