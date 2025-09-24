@@ -37,5 +37,6 @@ Sign In Page
 
 Clone the repo:
 ```bash
-git clone https://github.com/arthampc12/ecommerce-nextjs.git
-cd ecommerce-nextjs
+git clone https://github.com/arthampc12/webApps-ReTrash.git
+cd webApps-ReTrash
+
