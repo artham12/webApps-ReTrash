@@ -36,7 +36,7 @@ Sign In Page
 
 Clone the repo:
 ```bash
-git clone https://github.com/arthampc12/webApps-ReTrash.git
+git clone https://github.com/artham12/webApps-ReTrash.git
 cd webApps-ReTrash
 ```
 Install dependencies:
