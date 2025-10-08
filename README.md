@@ -8,7 +8,7 @@ This project demonstrates **authentication**, **dynamic navbar with session stat
 ## 🚀 Tech Stack
 - **Frontend**: Next.js 13, React, TailwindCSS, shadcn/ui
 - **Backend**: Payload CMS, tRPC
-- **Database**: PostgreSQL
+- **Database**: mongoDB
 - **Authentication**: JWT + Cookies
 
 
