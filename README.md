@@ -46,9 +46,9 @@ npm install
 ---
 ## 🔧 Environment Variables (.env setup) 
 
-Create an .env file from the .env example template:
+Create an .env file :
 ```bash
-cp .env.example .env
+touch .env
 ```
 
 Edit the .env file and fill in the respective secrets:
